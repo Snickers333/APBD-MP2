@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ConsoleApp1": {
+      "commandName": "Project",
+      "commandLineArgs": "\"C:\\Users\\bkkam\\Desktop\\dane.csv\" \"C:\\Users\\bkkam\\Desktop\" \"C:\\Users\\bkkam\\Desktop\\log.txt\" json"
+    }
+  }
+}
